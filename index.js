@@ -1,8 +1,8 @@
 import React, { Component } from 'react'
 import { AppRegistry, View } from 'react-native'
 
-import Menu from './src/components/header'
-import Album from './src/components/Album'
+import Menu from './src/components/Header/'
+import Album from './src/components/Login/'
 
 export default class Index extends Component {
   render() {
